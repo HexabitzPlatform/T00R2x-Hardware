@@ -288,22 +288,6 @@ In this library the device names are the same as the pin names of the symbols, t
 <vertex x="-11.8130875" y="0"/>
 <vertex x="-14.9903625" y="0"/>
 </polygon>
-<polygon width="0.1" layer="1">
-<vertex x="8.98020625" y="3.482128125" curve="-180"/>
-<vertex x="6.0379625" y="5.17824375"/>
-</polygon>
-<polygon width="0.1" layer="16">
-<vertex x="8.98020625" y="3.482128125" curve="-180"/>
-<vertex x="6.0379625" y="5.17824375"/>
-</polygon>
-<polygon width="0.1" layer="1">
-<vertex x="-6.018340625" y="5.180375" curve="-180"/>
-<vertex x="-8.962825" y="3.480375"/>
-</polygon>
-<polygon width="0.1" layer="16">
-<vertex x="-6.018340625" y="5.180375" curve="-180"/>
-<vertex x="-8.962825" y="3.480375"/>
-</polygon>
 <polygon width="0.1" layer="30">
 <vertex x="1.65691875" y="7.706434375" curve="-120"/>
 <vertex x="-1.63625625" y="7.710375"/>
@@ -349,6 +333,22 @@ In this library the device names are the same as the pin names of the symbols, t
 <polygon width="0.1" layer="29">
 <vertex x="-6.018340625" y="5.180375" curve="-180"/>
 <vertex x="-8.962825" y="3.480375"/>
+</polygon>
+<polygon width="0.1" layer="16">
+<vertex x="9.914403125" y="2.9615625" curve="-180"/>
+<vertex x="5.215978125" y="5.667475"/>
+</polygon>
+<polygon width="0.1" layer="16">
+<vertex x="-5.134290625" y="5.681640625" curve="-180"/>
+<vertex x="-9.845415625" y="2.95373125"/>
+</polygon>
+<polygon width="0.1" layer="1">
+<vertex x="-9.80584375" y="2.9634125" curve="180"/>
+<vertex x="-5.12584375" y="5.6634125"/>
+</polygon>
+<polygon width="0.1" layer="1">
+<vertex x="5.220278125" y="5.66014375" curve="180"/>
+<vertex x="9.898546875" y="2.957146875"/>
 </polygon>
 </package>
 </packages>
